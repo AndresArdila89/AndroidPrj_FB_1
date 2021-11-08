@@ -1,0 +1,50 @@
+# GIT IGNORE FILE
+# Developer: Andres Ardila
+# Project: Create Your Routine
+# Technology: Android
+
+# java files are compiled to class files so class files are not required to commit to repository
+
+# Java class files
+*.class
+
+# Genereted Files
+bin/
+gen/
+
+#ignore gradel files
+.gradle
+/build
+
+# Configuration files
+*.iws
+*.ipr
+*.iml
+/local.properties
+
+# Build generated package files
+*.apk
+*.ap_
+
+# the Dalvik VM files
+*.dex
+
+# Log files
+*.log
+
+# Keystore files
+*.jks
+
+# iOS DS_store files
+.DS_Store
+
+# Others
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+/captures
+.externalNativeBuild
+.cxx
