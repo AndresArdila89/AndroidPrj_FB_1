@@ -18,16 +18,14 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Id:"
-            tools:layout_editor_absoluteX="89dp"
-            tools:layout_editor_absoluteY="100dp" />
+            />
         <EditText
             android:id="@+id/edId"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:ems="10"
             android:inputType="textPersonName"
-            tools:layout_editor_absoluteX="124dp"
-            tools:layout_editor_absoluteY="83dp" />
+             />
     </LinearLayout>
 
     <LinearLayout
@@ -38,8 +36,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="File Name:"
-            tools:layout_editor_absoluteX="84dp"
-            tools:layout_editor_absoluteY="165dp" />
+             />
 
         <TextView
             android:id="@+id/tvPhotoFileName"
@@ -58,15 +55,12 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Image Preview"
-        tools:layout_editor_absoluteX="84dp"
-        tools:layout_editor_absoluteY="231dp" />
+         />
 
     <ImageView
         android:id="@+id/ivProfile"
         android:layout_width="250dp"
         android:layout_height="250dp"
-        tools:layout_editor_absoluteX="80dp"
-        tools:layout_editor_absoluteY="287dp"
         tools:srcCompat="@drawable/profile2" />
 
 

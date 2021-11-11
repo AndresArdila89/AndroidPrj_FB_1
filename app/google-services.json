@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "136115953851",
+    "firebase_url": "https://prjadvfbandres-default-rtdb.firebaseio.com",
+    "project_id": "prjadvfbandres",
+    "storage_bucket": "prjadvfbandres.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136115953851:android:3ac9d1b7579bba408e499e",
+        "android_client_info": {
+          "package_name": "co.scrumfit.hwuploadimage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136115953851-rkaqpkuqob69k5ommtfvtnkafd1vbfs6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdm-fJjNg5Dazo1DEovQT5rVCnTV0wkwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136115953851-rkaqpkuqob69k5ommtfvtnkafd1vbfs6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
